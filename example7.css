@@ -1,0 +1,45 @@
+.STC-Lofts{
+	margin: 0;
+	color: white;
+	font-family: 'Calistoga', cursive;
+	
+}
+
+.Nav{
+	display: inline-block;
+	margin: 0 auto;
+
+
+}
+.Header {
+	width: 100%;
+	margin: 0 auto;
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+	display: inline-block;
+}
+p {
+	display: inline-block;
+	width: 70%;
+	color: yellow;
+}
+.container{
+	margin: 0 auto;
+	display: grid;
+	grid-template-columns: 2fr 1fr;
+	grid-gap: 50px;
+}
+body{
+	background-image: url(Construction.png) ;
+}
+h1 {
+	color: white;
+}
+.References{
+	display: inline-block;
+}
